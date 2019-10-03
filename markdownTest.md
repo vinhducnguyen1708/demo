@@ -19,9 +19,9 @@ Gạch ngăn lề:
 
 ~~delete~~
 
-__aloalo__
+__chữ in đậm__
 
-_alo_
+_chữ nghiêng_
 
 -In nghiêng đậm:
 #### * ***Command line***
@@ -54,14 +54,14 @@ _alo_
 
 [Youtube](https://www.youtube.com/?gl=VN)
 
-## 6.Chèn ảnh
+## 6.Chèn ảnh 
 Cách 1
 ![Stormtroopocat](https://techcrunch.com/wp-content/uploads/2019/01/IMG_20181016_092551.jpg?w=730&crop=1 "Github")
 Cách 2
 ![Alt text][id]
 
 
-[id]: https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png "The Fox"
+[id]: https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png "Markdown"
 
 ## Chèn Video
 
