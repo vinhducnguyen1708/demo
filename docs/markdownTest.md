@@ -63,6 +63,12 @@ Cách 2
 
 [id]: https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png "Markdown"
 
+- Lưu ảnh local:
+
+![image](../images/local-image.png)
+
 ## Chèn Video
 
 {@youtube: https://www.youtube.com/watch?v=nnpemTN6yDE}
+
+
